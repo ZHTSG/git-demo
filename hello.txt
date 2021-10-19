@@ -15,4 +15,4 @@ hell git
 hell git
 hell git
 hell git master  test
-hell git
+hell git hot-fix test
